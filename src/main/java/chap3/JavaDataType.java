@@ -14,5 +14,4 @@ public class JavaDataType {
         String myString = "Hi";    // String 类型
         String[] myArrays = new String[]{"Hi", "Java"};     // String数组类型
     }
-
 }
